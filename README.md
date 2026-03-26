@@ -2,11 +2,6 @@
 
 A full-stack e-commerce web application built with the **MERN stack** — featuring product browsing, cart management, and secure payments powered by **Stripe**.
 
----
-
-## 🖥️ Live Preview
-
-> 🚧 Coming soon / [Add your deployed link here]
 
 ---
 
@@ -62,7 +57,7 @@ E-Commerce/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/VIKAS231101/e-commerce.git
+git clone https://github.com/VIKAS231101/E-Commerce-Store.git
 cd e-commerce
 ```
 
